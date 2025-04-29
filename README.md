@@ -1,1 +1,3 @@
-# All code is in the other branches
+# Entry point: admin.py
+
+User logs CRUD functionality
